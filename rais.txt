@@ -1,3 +1,4 @@
 hallo saya rais
 oke disini saya
-saya sedang belajar
+saya sedang mengerjakan
+tugas dasar git
