@@ -1,2 +1,5 @@
 hallo saya rais
 oke disini saya
+saya sedang mengerjakan
+tugas dasar git
+yaitu pull push and commit 
